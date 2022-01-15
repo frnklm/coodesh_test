@@ -1,16 +1,9 @@
-# shop_coodesh
+Flutter Challenge 20210610.
 
-A new Flutter project.
+App criado utilizando Flutter/Dart, Utilizando banco de dados Realtime Database.
 
-## Getting Started
+Lista Json preenchida e enviada pelo próprio App, imagens convertidas em links http.
 
-This project is a starting point for a Flutter application.
+Lista é carregada na tela inicial do app.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Há um drawer no app onde há opção de ser direcionado a pagina de edição de produtos, lá é possível adicionar, editar e remover os produtos.
